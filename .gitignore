@@ -1,0 +1,25 @@
+# Local editorial notes
+.local/
+
+# Credentials and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build products and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+build/
+dist/
+.pio/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
