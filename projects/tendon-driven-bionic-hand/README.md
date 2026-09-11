@@ -24,7 +24,7 @@ The design starts from bone geometry, joint axes, ligament attachment, and tendo
 
 Local files include CAD iterations and manufacturing exports. Full-hand control and electronics integration remain in progress. Quantitative results for backlash, load, repeatability, and durability have not yet been recorded in the reviewed index.
 
-[Related servo-array test device — private; access required](https://github.com/11HYH11/Bionic-Hand-Test-Device)
+[Related servo-array test device — private; access required](https://github.com/YuhaoHuai/Bionic-Hand-Test-Device)
 
 The test-device repository is a related component, not a complete release of the hand. MyoHand/myo_sim, Aero Hand, and ORCA Hand materials in the working directory are third-party references and are not presented as original implementations.
 

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Yuhao Huai</title>
+<desc id="desc">Research portfolio in robotics, wearable sensing, and mechatronics. Abstract trajectory and joint geometry.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f2339"/><stop offset="1" stop-color="#173e50"/></linearGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8ab7c7" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1200" height="280" rx="16" fill="url(#bg)"/>
+<rect x="760" width="440" height="280" fill="url(#grid)"/>
+<path d="M824 235C856 172 838 96 906 70S1012 181 1083 107S1151 49 1200 65" fill="none" stroke="#6fdaca" stroke-opacity=".42" stroke-width="2" stroke-dasharray="5 7"/>
+<g fill="none" stroke="#87b7ce" stroke-opacity=".48">
+  <circle cx="1060" cy="139" r="86"/><circle cx="1060" cy="139" r="60"/>
+  <path d="M951 139H1168M1060 32V247"/>
+</g>
+<path d="M938 228L990 175L1042 132L1115 157" fill="none" stroke="#7ce3d0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#153449" stroke="#c1f2e8" stroke-width="3"><circle cx="938" cy="228" r="8"/><circle cx="990" cy="175" r="10"/><circle cx="1042" cy="132" r="10"/><circle cx="1115" cy="157" r="8"/></g>
+<path d="M58 55H92" stroke="#7ce3d0" stroke-width="4"/>
+<text x="107" y="61" fill="#b9d9e4" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3">RESEARCH PORTFOLIO</text>
+<text x="56" y="133" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="59" font-weight="700">Yuhao Huai</text>
+<text x="59" y="177" fill="#d1e8ef" font-family="Segoe UI,Arial,sans-serif" font-size="23">Robotics · Wearable Sensing · Mechatronics</text>
+<text x="59" y="232" fill="#83b8c9" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1">PERCEPTION / HARDWARE / EMBEDDED SYSTEMS</text>
+</svg>

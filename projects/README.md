@@ -9,7 +9,7 @@ This index covers the nine projects identified in the available project folders 
 | [Autonomous Mobile Robot](autonomous-mobile-robot/README.md) | Mechatronics | Course project; summary available |
 | [PIC32 Embedded Arcade System](pic32-arcade-system/README.md) | Embedded systems | Course project; summary available |
 | [Dynamic Loading Instrument Optimization](dynamic-loading-instrument/README.md) | Experimental instrumentation | Research project; summary available |
-| [Interactive Mohr’s Circle Learning Tool](mohrs-circle-learning-tool/README.md) | Engineering education | Research project; publication listed |
+| [Interactive Mohr’s Circle Learning Tool](mohrs-circle-learning-tool/README.md) | Engineering education | Research project; conference publication |
 | [Wing Nut Injection Mold Design](wing-nut-injection-mold/README.md) | Manufacturing | Design project; summary available |
 | [Smart Safety Helmet Structural Design](smart-safety-helmet/README.md) | Mechanical engineering | Industry internship; summary only |
 | [Fabric Defect Visual Detection](fabric-defect-detection/README.md) | Computer vision | Industry internship; summary only |

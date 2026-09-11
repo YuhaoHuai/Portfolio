@@ -30,9 +30,9 @@ Create only the directories the project needs. Keep third-party reference projec
 
 ## Repository homepage
 
-The portfolio is published in [11HYH11/Projects-Display](https://github.com/11HYH11/Projects-Display). Its root README is the project-display homepage, with detailed pages under `projects/`.
+The portfolio is published in [YuhaoHuai/Portfolio](https://github.com/YuhaoHuai/Portfolio). Its root README is the project-display homepage, with detailed pages under `projects/`.
 
-Link this repository from your GitHub profile and use its URL in application materials. If you later want a custom profile README, GitHub supports a separate public repository named `11HYH11`; that is optional and is not required to use this portfolio.
+Link this repository from your GitHub profile and use its URL in application materials. If you later want a custom profile README, GitHub supports a separate public repository named `YuhaoHuai`; that is optional and is not required to use this portfolio.
 
 See [GitHub's official profile README guide](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme).
 

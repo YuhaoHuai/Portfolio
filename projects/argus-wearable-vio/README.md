@@ -24,7 +24,7 @@ The documented VIO implementation uses KLT feature tracking, IMU propagation, an
 
 An existing code repository and local implementation are available. Benchmark datasets and reproducible evaluation results are not included in this portfolio. The documented estimator requires stationary initialization and does not include loop closure.
 
-[Source repository — private; access required](https://github.com/11HYH11/Argus)
+[Source repository — private; access required](https://github.com/YuhaoHuai/Argus)
 
 [Back to all projects](../README.md) · [Portfolio home](../../README.md)
 
