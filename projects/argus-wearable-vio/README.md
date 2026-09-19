@@ -6,6 +6,14 @@ A wearable sensing prototype that combines camera and inertial measurements for 
 **Stage:** Research prototype; source repository private  
 **Tools and methods:** C++17 · ROS 2 · OpenCV · Eigen · Raspberry Pi · OpenSim
 
+## Hardware gallery
+
+| Sensor module and mounting plate | Camera and IMU electronics |
+| --- | --- |
+| ![Physical sensor module](../../media/argus/sensor-module.jpg) | ![Camera and IMU electronics](../../media/argus/camera-imu-electronics.jpg) |
+
+*Original hardware photographs from a historical project report. These show the sensing assembly; they are not a benchmark or a claim about the current software version. [Media sources](../../docs/MEDIA.md).*
+
 ## Context
 
 Research at the Stanford Assistive Robotics and Manipulation Lab.

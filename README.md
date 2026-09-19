@@ -1,5 +1,8 @@
+<h1 align="center">Yuhao Huai</h1>
+<p align="center"><b>Robotics · Wearable Sensing · Mechatronics</b></p>
 <p align="center">
-  <img src="assets/research-banner.svg" alt="Yuhao Huai — Robotics, Wearable Sensing and Mechatronics" width="100%" />
+  <img src="assets/robotics-concept-ai.jpg" alt="AI-generated decorative concept illustration of sensing trajectories and tendon-inspired mechanics" width="100%" />
+  <br><sub>AI-generated concept illustration · Decorative only</sub>
 </p>
 
 <p align="center">
@@ -21,6 +24,14 @@ I am interested in how robots estimate motion and interact with the physical wor
 - **Engineering focus:** sensing, mechanical design, and embedded software developed together.
 - **Academic goal:** PhD research in robotics and mechatronics.
 
+## Recent Work
+
+**September 2026 · Bionic hand development**
+
+- **Five-finger simulation:** expanded to 15 joint degrees of freedom and 30 main tendons, with force, angle, and tendon-displacement control. [Model and validation limits](projects/tendon-driven-bionic-hand/five-finger-simulation.md).
+- **Anatomical template adaptation:** a ring-finger GUI workflow for transferring tendon guides, lofting ligaments, and aligning paired attachment features on new bone meshes. [Design and inspection images](projects/tendon-driven-bionic-hand/template-adaptation.md).
+- **Physical prototype:** watch the existing little-finger flexion and lateral-motion recordings. [Video gallery](projects/tendon-driven-bionic-hand/README.md#physical-prototype-and-videos).
+
 ## Featured Projects
 
 <table>
@@ -28,6 +39,8 @@ I am interested in how robots estimate motion and interact with the physical wor
 <td width="50%" valign="top">
 
 ### 🤖 Argus · Wearable VIO
+
+<p align="center"><a href="projects/argus-wearable-vio/README.md"><img src="media/argus/sensor-module.jpg" alt="Photograph of the Argus camera module and mounting plate" height="210" /></a></p>
 
 A wearable camera–IMU system for motion estimation, with a host-side workflow for human-motion visualization.
 
@@ -44,15 +57,17 @@ A wearable camera–IMU system for motion estimation, with a host-side workflow 
 
 ### 🦾 Tendon-Driven Bionic Hand
 
+<p align="center"><a href="projects/tendon-driven-bionic-hand/README.md#physical-prototype-and-videos"><img src="media/bionic-hand/prototype-flexion.jpg" alt="Real little-finger prototype flexing on the servo test rig" height="210" /></a></p>
+
 An anatomy-informed hand design exploring printable finger structures, tendon routing, and servo actuation.
 
-**My contribution:** finger and spool design iterations, nylon-cord actuation, and a little-finger mechanical prototype.
+**My contribution:** finger and spool design, nylon-cord actuation, five-finger simulation, and anatomical template adaptation.
 
-`Mechanical Design` `3D Printing` `Servo Control`
+`Mechanical Design` `MuJoCo` `3D Printing`
 
-**Stage:** Single-finger prototype; full-hand integration in progress.
+**Stage:** Physical single-finger prototype; five-finger simulation and geometry-adaptation prototypes.
 
-[Project overview](projects/tendon-driven-bionic-hand/README.md)
+[Project overview](projects/tendon-driven-bionic-hand/README.md) · [Videos](projects/tendon-driven-bionic-hand/README.md#physical-prototype-and-videos)
 
 </td>
 </tr>
@@ -123,7 +138,7 @@ DOI: `10.18260/1-2--47723`
 | Area | Experience |
 | --- | --- |
 | Programming | `C++` `Python` `MATLAB` `Embedded C` |
-| Robotics & perception | `ROS 2` `OpenCV` `OpenSim` `Camera–IMU Calibration` |
+| Robotics & perception | `ROS 2` `OpenCV` `OpenSim` `MuJoCo` `Camera–IMU Calibration` |
 | Embedded platforms | `Raspberry Pi` `PIC32` `Arduino` |
 | Design & manufacturing | `SolidWorks` `Moldex3D` `3D Printing` `Mechanical Prototyping` |
 
@@ -133,4 +148,4 @@ I welcome conversations about PhD research opportunities and collaboration in ro
 
 **[huaiyuhao2001@gmail.com](mailto:huaiyuhao2001@gmail.com)** · **[GitHub](https://github.com/YuhaoHuai)**
 
-<sub>Project pages describe individual contributions, available materials, and validation status. Private source repositories require access. Project-status evidence was reviewed on September 8, 2026; portfolio presentation updated on September 11, 2026.</sub>
+<sub>Project pages describe individual contributions, available materials, and validation status. Private source repositories require access. Bionic-hand updates reflect development records through September 19, 2026. Other project summaries retain their previously reviewed status. Updated September 20, 2026. See <a href="docs/MEDIA.md">media sources and AI disclosure</a>.</sub>

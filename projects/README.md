@@ -5,7 +5,7 @@ This index covers the nine projects identified in the available project folders 
 | Project | Area | Material status |
 | --- | --- | --- |
 | [Argus — Wearable Visual–Inertial Odometry](argus-wearable-vio/README.md) | Robot perception | Research prototype; source repository private |
-| [Tendon-Driven Bionic Hand](tendon-driven-bionic-hand/README.md) | Robotic hardware | Single-finger prototype; full-hand integration in progress |
+| [Tendon-Driven Bionic Hand](tendon-driven-bionic-hand/README.md) | Robotic hardware | Physical prototype videos; five-finger simulation and geometry adaptation |
 | [Autonomous Mobile Robot](autonomous-mobile-robot/README.md) | Mechatronics | Course project; summary available |
 | [PIC32 Embedded Arcade System](pic32-arcade-system/README.md) | Embedded systems | Course project; summary available |
 | [Dynamic Loading Instrument Optimization](dynamic-loading-instrument/README.md) | Experimental instrumentation | Research project; summary available |
@@ -16,3 +16,9 @@ This index covers the nine projects identified in the available project folders 
 
 For adding projects, see the [repository guide](../docs/REPOSITORY_GUIDE.md) and [project template](../templates/PROJECT_README.md).
 
+
+## Recent Bionic-Hand Modules
+
+- [Five-finger tendon-driven simulation](tendon-driven-bionic-hand/five-finger-simulation.md) — September 19, 2026.
+- [Anatomical template adaptation](tendon-driven-bionic-hand/template-adaptation.md) — September 18, 2026.
+- [Physical prototype videos](tendon-driven-bionic-hand/README.md#physical-prototype-and-videos) — recorded August 28, 2026.
