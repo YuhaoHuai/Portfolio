@@ -2,7 +2,6 @@
 <p align="center"><b>Robotics · Wearable Sensing · Mechatronics</b></p>
 <p align="center">
   <img src="assets/robotics-concept-ai.jpg" alt="AI-generated decorative concept illustration of sensing trajectories and tendon-inspired mechanics" width="100%" />
-  <br><sub>AI-generated concept illustration · Decorative only</sub>
 </p>
 
 <p align="center">
