@@ -4,12 +4,12 @@ This index covers the nine projects identified in the available project folders 
 
 | Project | Area | Material status |
 | --- | --- | --- |
-| [Argus — Wearable Visual–Inertial Odometry](argus-wearable-vio/README.md) | Robot perception | Research prototype; source repository private |
+| [Argus — Wearable Visual–Inertial Odometry](argus-wearable-vio/README.md) | Robot perception | Ongoing; unpublished; high-level overview only |
 | [Tendon-Driven Bionic Hand](tendon-driven-bionic-hand/README.md) | Robotic hardware | Physical prototype videos; five-finger simulation and geometry adaptation |
 | [Autonomous Mobile Robot](autonomous-mobile-robot/README.md) | Mechatronics | Course project; summary available |
 | [PIC32 Embedded Arcade System](pic32-arcade-system/README.md) | Embedded systems | Course project; summary available |
 | [Dynamic Loading Instrument Optimization](dynamic-loading-instrument/README.md) | Experimental instrumentation | Research project; summary available |
-| [Interactive Mohr’s Circle Learning Tool](mohrs-circle-learning-tool/README.md) | Engineering education | Research project; conference publication |
+| [Interactive Mohr’s Circle Learning Tool](mohrs-circle-learning-tool/README.md) | Engineering education | ASEE 2024 paper; published figures and learning workflow |
 | [Wing Nut Injection Mold Design](wing-nut-injection-mold/README.md) | Manufacturing | Design project; summary available |
 | [Smart Safety Helmet Structural Design](smart-safety-helmet/README.md) | Mechanical engineering | Industry internship; summary only |
 | [Fabric Defect Visual Detection](fabric-defect-detection/README.md) | Computer vision | Industry internship; summary only |

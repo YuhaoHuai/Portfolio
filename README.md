@@ -23,6 +23,15 @@ I am interested in how robots estimate motion and interact with the physical wor
 - **Engineering focus:** sensing, mechanical design, and embedded software developed together.
 - **Academic goal:** PhD research in robotics and mechatronics.
 
+## Selected Publication
+
+**Learning Tool to Enhance Understanding of Stress States and Mohr's Circle**  
+Simon Livingston-Jha, Haozhong Deng, **Yuhao Huai**, and Jennifer Detlor  
+*2024 ASEE Annual Conference & Exposition*
+
+[Read the paper](https://peer.asee.org/learning-tool-to-enhance-understanding-of-stress-states-and-mohr-s-circle.pdf) · [Project details](projects/mohrs-circle-learning-tool/README.md)  
+DOI: `10.18260/1-2--47723`
+
 ## Recent Work
 
 **September 2026 · Bionic hand development**
@@ -41,15 +50,15 @@ I am interested in how robots estimate motion and interact with the physical wor
 
 <p align="center"><a href="projects/argus-wearable-vio/README.md"><img src="media/argus/sensor-module.jpg" alt="Photograph of the Argus camera module and mounting plate" height="210" /></a></p>
 
-A wearable camera–IMU system for motion estimation, with a host-side workflow for human-motion visualization.
+Research toward wearable human-motion capture without conventional external motion-capture infrastructure.
 
-**My contribution:** sensing hardware, calibration and synchronization, a ROS 2 VIO pipeline, and OpenSim integration.
+**My contribution:** wearable sensing, visual–inertial motion estimation, and human-motion reconstruction and visualization.
 
-`C++` `ROS 2` `OpenCV` `Sensor Fusion`
+`Wearable Sensing` `Motion Capture` `Visual–Inertial Odometry`
 
-**Stage:** Research prototype.
+**Status:** Ongoing · Unpublished. Technical details are not publicly disclosed.
 
-[Project overview](projects/argus-wearable-vio/README.md) · [Code · private](https://github.com/YuhaoHuai/Argus)
+[Research objective & workflow](projects/argus-wearable-vio/README.md)
 
 </td>
 <td width="50%" valign="top">
@@ -90,7 +99,9 @@ A Stanford ME218B robot for starting-side identification, autonomous navigation,
 
 ### 📐 Interactive Mohr's Circle
 
-A physical and computational learning tool for exploring stress states and Mohr's circle transformations.
+<p align="center"><a href="projects/mohrs-circle-learning-tool/README.md"><img src="media/mohrs-circle/figure-1-3d-interface.png" alt="Published MATLAB interface for 3D stress transformation and Mohr's circle" width="100%" /></a></p>
+
+An interactive MATLAB learning tool and proposed handheld device for connecting physical loads, stress states, and Mohr's circle.
 
 **My contribution:** teaching-tool design, mathematical modeling, MATLAB simulation, and physical-input signal conversion.
 
@@ -103,15 +114,6 @@ A physical and computational learning tool for exploring stress states and Mohr'
 </td>
 </tr>
 </table>
-
-## Selected Publication
-
-**Learning Tool to Enhance Understanding of Stress States and Mohr's Circle**  
-Simon Livingston-Jha, Haozhong Deng, **Yuhao Huai**, and Jennifer Detlor  
-*2024 ASEE Annual Conference & Exposition*
-
-[Read the paper](https://peer.asee.org/learning-tool-to-enhance-understanding-of-stress-states-and-mohr-s-circle.pdf) · [Project details](projects/mohrs-circle-learning-tool/README.md)  
-DOI: `10.18260/1-2--47723`
 
 ## More Engineering Projects
 
@@ -147,4 +149,4 @@ I welcome conversations about PhD research opportunities and collaboration in ro
 
 **[huaiyuhao2001@gmail.com](mailto:huaiyuhao2001@gmail.com)** · **[GitHub](https://github.com/YuhaoHuai)**
 
-<sub>Project pages describe individual contributions, available materials, and validation status. Private source repositories require access. Bionic-hand updates reflect development records through September 19, 2026. Other project summaries retain their previously reviewed status. Updated September 20, 2026. See <a href="docs/MEDIA.md">media sources and AI disclosure</a>.</sub>
+<sub>Project pages describe individual contributions, available materials, and validation status. Private source repositories require access. Bionic-hand updates reflect development records through September 19, 2026. Other project summaries retain their previously reviewed status. Updated September 21, 2026. See <a href="docs/MEDIA.md">media sources and AI disclosure</a>.</sub>
