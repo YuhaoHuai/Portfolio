@@ -14,7 +14,7 @@
 
 ## Hi, I'm Yuhao 👋
 
-My background is in **mechanical engineering**, with research and project experience at **Stanford University** and the **University of Wisconsin–Madison**. I work on robotic perception, wearable sensing, and electromechanical systems.
+I am currently a **Research Assistant at Zhejiang University**. My background is in **mechanical engineering**, with research and project experience at **Stanford University** and the **University of Wisconsin–Madison**. I work on robotic perception, wearable sensing, and electromechanical systems.
 
 I am interested in how robots estimate motion and interact with the physical world. My work spans camera–IMU integration, embedded control, mechanical prototyping, and experimental instrumentation. I enjoy connecting these pieces into working systems, from a sensor stream or a CAD model through to a physical prototype and its evaluation.
 
